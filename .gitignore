@@ -11,6 +11,12 @@
 # generated files
 bin/
 gen/
+tomcat.8080/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# Eclipse project files
+.settings/
+.classpath
+.project
