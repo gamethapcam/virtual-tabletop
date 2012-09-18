@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="carpet" tilewidth="40" tileheight="40">
+  <image source="../tilesets/carpet.PNG" width="240" height="120"/>
+ </tileset>
+ <layer name="base tile layer" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKISZgZidiDmoBLmHDVv1LxR80bNGzWPaubxAjEflTA/EAMAYuwMgQ==
+  </data>
+ </layer>
+ <layer name="top floor layer" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzjYaAe4KGiWeiAjUrsoQJG/Usee6iAUf+Sxx4qYLD6l5plNMgsAEF9AQk=
+  </data>
+ </layer>
+</map>
